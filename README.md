@@ -23,7 +23,7 @@ If the ANN is designed to solve the Logical XOR problem, you can update the weig
 
 During this update, it's crucial to check if the error is reduced, as the objective of the backpropagation algorithm is to minimize the error and enhance the network's performance.
 
-## Step-by-Step Guide
+# Step-by-Step Guide
 
 ### Data Preparation
 
