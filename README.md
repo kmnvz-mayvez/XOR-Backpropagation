@@ -49,6 +49,8 @@ This is a simplified example, and real-world problems may require more complex a
 
 ## Artificial Neural Network (ANN) for XOR Problem
 
+![image](https://github.com/kmnvz-mayvez/XOR-Backpropagation-deep-learning/assets/55338832/96d3c546-5c4e-40da-880e-d306618dea18)
+
 The following figure illustrates an Artificial Neural Network (ANN) designed to tackle the Logical XOR problem. This ANN comprises:
 
 - **2 input neurons** (u1, u2)
